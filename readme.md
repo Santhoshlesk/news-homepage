@@ -4,6 +4,7 @@
 
 <h3>Frontend mentor link -- https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl</h3>
 <br>
+<h3>By</h3>
 <h3>Santhosh kumar A</h3>
 
-<h1>**Travel around the World && Develop and connect the world!**</h1>
+<h3>**Travel around the World && Develop and connect the world!**</h3>
